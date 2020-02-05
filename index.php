@@ -1,5 +1,5 @@
 <?php
-echo "HOLA MUNDO";
+
 $controllerInicio = 'Inicio';
 $controllerSesion = 'Sesion';
 $controllerLogout = 'Logout';
